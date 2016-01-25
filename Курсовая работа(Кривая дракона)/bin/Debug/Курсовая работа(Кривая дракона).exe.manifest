@@ -47,14 +47,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="55192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="73312">
       <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs.resources" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ru" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>J4loq1oPpZwGa70SasyOaUSvLQI=</dsig:DigestValue>
+        <dsig:DigestValue>vl6LMy6iJGosCMBFwgiL4qP467s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -66,7 +66,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7dIQ3oosaMkddfe7KLRU7tfcBPk=</dsig:DigestValue>
+        <dsig:DigestValue>l0L4IcefiCFrCsk8ALrc9YYcfcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
