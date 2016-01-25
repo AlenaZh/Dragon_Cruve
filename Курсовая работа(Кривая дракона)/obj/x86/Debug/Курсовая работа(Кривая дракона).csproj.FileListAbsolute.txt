@@ -1,0 +1,24 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.About.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Inform.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.About.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Inform.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая_работа_Кривая_дракона_.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).exe.manifest
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\bin\Debug\Курсовая работа(Кривая дракона).application
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).exe.manifest
+C:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая работа(Кривая дракона)1\Курсовая работа(Кривая дракона)\Курсовая работа(Кривая дракона)\obj\x86\Debug\Курсовая работа(Кривая дракона).application
