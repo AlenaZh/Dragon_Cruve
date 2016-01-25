@@ -271,9 +271,9 @@ namespace Курсовая_работа_Кривая_дракона_
         private void btnSave_Click(object sender, EventArgs e)
         {
             SaveFileDialog sDialog = new SaveFileDialog();
-            sDialog.FileName = "Кривая дракона";
-            sDialog.DefaultExt = ".jpg";
-            sDialog.Filter = "(.jpg)|*.jpg";
+            sDialog.FileName = "Новая кривая дракона";
+            sDialog.DefaultExt = ".bmp";
+            sDialog.Filter = "(.bmp)|*.bmp";
 
             if (sDialog.ShowDialog() == DialogResult.OK)
             {
